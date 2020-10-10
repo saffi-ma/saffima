@@ -1,0 +1,16 @@
+name: "Saffima"
+author: "Saffi"
+output_dir: "docs"
+output:
+  html_document:
+    self_contained: no
+    theme: cosmo
+    css: style.css
+
+navbar:
+  title: "Saffi's first Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "My pictures"
+      href: pictures.html

@@ -1,0 +1,38 @@
+---
+
+Title: "Saffi's first Website"
+
+---
+
+I am a **postgraduate** student in the **University of Glasgow**'s
+[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
+
+I am working with [Dr Esther Papies](http://healthycognitionlab.org)
+
+
+***
+
+
+### Healthy Cognation Research Lab:
+
+> Senior lecture
+    * Dr Esther Papies
+
+> PGR
+    * Betul
+    * Lara 
+    * Tess
+    * Amy
+    
+> PGT
+    * Xiaoting
+    * Marleen
+    * Libby
+
+Things I need to do:
+
+1. Build a simple website
+1. Finish Dataskills Exercise 3
+1. Qualitative research reading
+1. Check Moodle
+
